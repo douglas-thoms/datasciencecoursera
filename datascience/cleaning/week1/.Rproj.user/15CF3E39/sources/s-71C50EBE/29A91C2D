@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549699386272.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "29A91C2D",
+    "lastKnownWriteTime" : 7813590796663464571,
+    "last_content_update" : 1549699386272,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8A490F39",
+        "caption" : "gasdata1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gasdata1&cache_key=8A490F39",
+        "displayedObservations" : 5,
+        "environment" : "",
+        "object" : "gasdata1",
+        "preview" : 0,
+        "totalObservations" : 5,
+        "variables" : 9
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
